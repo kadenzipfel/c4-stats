@@ -1,8 +1,8 @@
-> 🚧  code requires a timesheet CSV to run. I removed mine for privacy reasons.
+> 🚧 code requires a timesheet CSV to run. I removed mine for privacy reasons.
 
 # c4-stats
 
-Rust program to create stats for [Code4rena](https://code4rena.com/leaderboard)'s `cmichel` warden.
+Rust program to create stats for [Code4rena](https://code4rena.com/leaderboard)'s `kaden` warden.
 Requires exporting a time sheet as a `csv` file (from a time tracking tool like [clockify](https://clockify.me/)) to plot the hours worked & hourly rate charts.
 
 ## Raw data
